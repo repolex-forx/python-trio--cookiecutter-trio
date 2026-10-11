@@ -1,0 +1,11 @@
+{
+  "org": "python-trio",
+  "repo": "cookiecutter-trio",
+  "versions": [
+    {
+      "commit": "17f560a4aab0da9be009f1526ca5bcddc47a4c3d",
+      "tag": "",
+      "parsed_at": "2026-10-11T06:24:35.763480+00:00"
+    }
+  ]
+}
