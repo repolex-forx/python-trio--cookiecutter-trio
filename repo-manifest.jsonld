@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-trio/cookiecutter-trio/commit/17f560a4aab0da9be009f1526ca5bcddc47a4c3d",
       "git:hexsha": "17f560a4aab0da9be009f1526ca5bcddc47a4c3d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
